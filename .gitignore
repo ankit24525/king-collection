@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# nextjs build
+.next/
+out/
+
+# build
+dist/
+build/
+
+# coverage
+coverage/
+
+# misc
+*.pem
+
